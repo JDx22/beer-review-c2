@@ -43,5 +43,5 @@ function sort()
 $(".sort").on("click",function(){
     sortAsending=!sortAsending;
     sort();
-    renderBeers();
+    renderBeers();5
 })
